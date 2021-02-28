@@ -2,7 +2,7 @@
 <center> <h1>DogecoinMoon</h1> </center>
 
 <p align="center">
-  <img src="img/dogecoinmoon-logo.png" />
+  <img src="img/dogecoinmoon-logo.gif" />
 </p>
 
 <p align="center">
