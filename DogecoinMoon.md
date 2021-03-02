@@ -10,6 +10,6 @@ A tiny text adventure game about <a href="https://dogecoin.com" style="font-weig
 </p>
 
 <p align="center">
-	<a class="button" href="dogecoinmoon.html" target="_blank" style="font-size: 32px; font-weight: bold;background-color: #f25022; padding: 10px 20px; border-radius: 6px; color: #ffffff; text-decoration: none;outline: none;" >PLAY NOW!</a>
+	<a class="button" href="dogecoinmoon.html" style="font-size: 32px; font-weight: bold;background-color: #f25022; padding: 10px 20px; border-radius: 6px; color: #ffffff; text-decoration: none;outline: none;" >PLAY NOW!</a>
 </p>
 
